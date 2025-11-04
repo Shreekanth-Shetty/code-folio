@@ -1,16 +1,41 @@
-## Personal Portfolio
+# ShreeKanth Portfolio
 
-### [Live Site](https://tanveer-e09d4.web.app)
+A modern, responsive portfolio website showcasing my projects and skills, built with React and Next.js.
 
-![Portfolio Website](https://firebasestorage.googleapis.com/v0/b/bucket-a2d0b.appspot.com/o/postImages%2Ftanveer-portfolio.png?alt=media&token=ef272d0a-5004-469a-9ecb-38c521d6839f)
+## 🌟 Features
 
-This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
+- **🌓 Dark/Light Theme**: Toggle between themes with persistence
+- **📌 Sticky Navigation**: Header stays visible while scrolling
+- **📱 Responsive Design**: Works perfectly on all devices
+- **⚡ Fast Performance**: Built with Next.js for optimal speed
+- **🎨 Modern UI**: Clean design with smooth animations
 
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
+## 🛠️ Tech Stack
 
-Setup:
+- **Frontend**: React, Next.js
+- **Styling**: Styled Components
+- **Icons**: React Icons
+- **Theme**: Context API for state management
 
-- run `npm i && npm run build && npm run dev`
+## 🚀 Quick Start
 
+```bash
+# Clone repository
+git clone https://github.com/Shreekanth-Shetty/code-folio
 
-## If you like it give it a star ⭐
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+## 📞 Contact : To Be Updated
+
+- **LinkedIn**: [Your LinkedIn Profile]
+- **GitHub**: [Your GitHub Profile]
+- **Email**: your.email@example.com
+
+---
+
+⭐ Star this repository if you find it helpful!
